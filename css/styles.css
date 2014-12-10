@@ -7,6 +7,32 @@ header{
   background: url(../img/gray_jean.png);
 }
 
+.me{
+  float: right;
+  margin-top: -315px;
+
+}
+a{
+  font-family: 'Cardo:400', serif;
+  color:#002434; 
+  text-decoration: none;
+  margin-right: 1em;
+  margin-left: 1.5em;
+}
+
+a:hover{
+  color:#FFF;
+  background: #002434;
+  transition: 1s;
+}
+
+footer{
+  margin-top: 320px;
+  font-family: 'Cardo', serif;
+  color: #3E3E40;
+  font-size: 1em;
+}
+
 /* Show Grid */
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
