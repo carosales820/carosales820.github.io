@@ -9,8 +9,7 @@ header{
 
 .me{
   float: right;
-  margin-top: -290px;
-  margin-left: 500px;
+  margin-top: -315px;
 
 }
 a{
@@ -34,8 +33,6 @@ footer{
   color: #3E3E40;
   font-size: 1em;
 }
-
-
 
 /* Show Grid */
 .showgrid {
